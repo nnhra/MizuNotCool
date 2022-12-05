@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ItzKaguya</h1>
 <h3 align="center">An Android & GNU/Linux Enthusiast. Currently working on Galaxy A10s, Galaxy-MT6768 devices, and Exynos7870 devices</h3>
 
+<img src="https://github.com/littletsu/littletsu/blob/master/1657399894054.jpg?raw=true"><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizunotcool&label=Profile%20views&color=0e75b6&style=flat" alt="mizunotcool" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizunotcool" alt="mizunotcool" /></a> </p>
