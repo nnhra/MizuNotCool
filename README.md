@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ItzKaguya</h1>
-<h3 align="center">An Android & GNU/Linux Enthusiast. Currently working on Galaxy A10s, Galaxy-MT6768 devices, and Exynos7870 devices</h3>
+<h3 align="center">An Android & GNU/Linux Enthusiast. Currently developing for Galaxy A10s, Galaxy-MT6768 devices, and Exynos7870 devices</h3>
 
 <img src="https://github.com/littletsu/littletsu/blob/master/1657399894054.jpg?raw=true"><br>
 
